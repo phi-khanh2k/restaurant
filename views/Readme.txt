@@ -5,6 +5,5 @@ Template URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-them
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
-Khanh dep trai
 
 Them gi do
